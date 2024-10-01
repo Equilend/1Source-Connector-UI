@@ -4,7 +4,22 @@ This is a reference implementation of a React application which provides a web-b
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Fetching the app code locally
+
+To get the source code for the project, you can use the following command:
+
+```
+> git clone https://github.com/Equilend/1Source-Connector-UI
+```
+
+Next, navigate to the project directory and install the dependencies:
+
+```
+> cd 1Source-Connector-UI
+> npm install
+```
+
+## Available Runtime Scripts
 
 In the project directory, you can run:
 
